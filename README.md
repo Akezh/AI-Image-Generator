@@ -9,3 +9,6 @@
 - run `yarn` or `npm install` in root directory
 - create `.env` file and put `OPENAI_API_KEY=...`
 - run `yarn dev` or `npm run dev`
+
+https://github.com/Akezh/AI-Image-Generator/assets/39896828/364ba532-852e-4773-9773-9ec7e39b6715
+
